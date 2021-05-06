@@ -1,6 +1,6 @@
 rootProject.name='ala-bie'
 
-boolean inplace = false
+boolean inplace = true
 
 if (inplace) {
     include ':bie-plugin'

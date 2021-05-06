@@ -39,6 +39,7 @@ grails:
             - file:///data/ala-bie/config/ala-bie-config.properties
             - file:///data/ala-bie/config/ala-bie-config.yml
             - file:///data/ala-bie/config/ala-bie-config.groovy
+            - file:///root/IdeaProjects/REMdb_core_dev/data_local/ala-bie/config/ala-bie-config.properties
     cors:
         enabled: true
     mime:
